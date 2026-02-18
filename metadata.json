@@ -1,0 +1,8 @@
+{
+  "name": "EnvioSeguro",
+  "description": "Um gravador de webcam local que grava data e hora no vídeo e salva arquivos altamente comprimidos automaticamente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
